@@ -1,0 +1,55 @@
+{
+  "delay_between_adds": [30, 60],
+  "delay_between_groups": [300, 600],
+  "max_users_per_group": 50,
+  "max_daily_adds": 200,
+  "skip_private_users": true,
+  "skip_bots": true,
+  "skip_deleted_users": true,
+  "auto_save_progress": true,
+  "report_interval": 10,
+  "creator": {
+    "name": "Lord",
+    "telegram_id": "Lord4626",
+    "phone": "0793724626",
+    "email": "mohibaddindaife@gmail.com",
+    "role": "creator"
+  },
+  "groups": {
+    "source_groups": [
+      "SOURCE_GROUP_1",
+      "SOURCE_GROUP_2",
+      "SOURCE_GROUP_3"
+    ],
+    "target_groups": [
+      "TARGET_GROUP_1",
+      "TARGET_GROUP_2"
+    ]
+  },
+      "monitoring": {
+        "enable_web_panel": true,
+        "web_port": 8080,
+        "enable_telegram_bot": true,
+        "bot_token": "7861826109:AAF4ZOLn5UpGmxlsh0grbQ6STbGs5g2YL2E",
+        "admin_users": ["Lord4626", "I89I89I840", 7936340030],
+        "creator_id": "Lord4626",
+        "support_admin": "I89I89I840",
+        "owner_id": 7936340030,
+        "api_id": 29003653,
+        "api_hash": "522d9793d72a6829e34fed2a35cd46f6",
+        "bot_name": "Special Ad Member",
+        "bot_username": "special_ad_member_bot"
+    },
+  "security": {
+    "daily_limit": 200,
+    "hourly_limit": 50,
+    "cooldown_after_error": 300,
+    "max_concurrent_accounts": 10
+  },
+  "notifications": {
+    "enable_auto_notifications": true,
+    "notify_on_start": true,
+    "notify_on_error": true,
+    "notify_on_completion": true
+  }
+} 

@@ -1,0 +1,54 @@
+{
+  "accounts": [
+    {
+      "name": "اکانت 1",
+      "api_id": "YOUR_API_ID_1",
+      "api_hash": "YOUR_API_HASH_1",
+      "phone": "YOUR_PHONE_1",
+      "session_name": "session_1",
+      "is_active": true,
+      "daily_limit": 200,
+      "hourly_limit": 50
+    },
+    {
+      "name": "اکانت 2",
+      "api_id": "YOUR_API_ID_2",
+      "api_hash": "YOUR_API_HASH_2",
+      "phone": "YOUR_PHONE_2",
+      "session_name": "session_2",
+      "is_active": true,
+      "daily_limit": 200,
+      "hourly_limit": 50
+    },
+    {
+      "name": "اکانت 3",
+      "api_id": "YOUR_API_ID_3",
+      "api_hash": "YOUR_API_HASH_3",
+      "phone": "YOUR_PHONE_3",
+      "session_name": "session_3",
+      "is_active": true,
+      "daily_limit": 200,
+      "hourly_limit": 50
+    },
+    {
+      "name": "اکانت 4",
+      "api_id": "YOUR_API_ID_4",
+      "api_hash": "YOUR_API_HASH_4",
+      "phone": "YOUR_PHONE_4",
+      "session_name": "session_4",
+      "is_active": true,
+      "daily_limit": 200,
+      "hourly_limit": 50
+    },
+    {
+      "name": "اکانت 5",
+      "api_id": "YOUR_API_ID_5",
+      "api_hash": "YOUR_API_HASH_5",
+      "phone": "YOUR_PHONE_5",
+      "session_name": "session_5",
+      "is_active": true,
+      "daily_limit": 200,
+      "hourly_limit": 50
+    }
+  ]
+} 
