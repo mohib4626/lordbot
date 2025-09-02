@@ -9,6 +9,6 @@ itsdangerous==2.1.2
 click==8.1.7
 blinker==1.6.3
 dnspython==2.4.2
-eventlet==0.33.3
+eventlet==0.40.3
 gevent==23.7.0
 gevent-websocket==0.10.1 
