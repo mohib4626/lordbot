@@ -1,6 +1,6 @@
 telethon==1.28.5
 aiofiles==23.2.1
-aiohttp==3.8.5
+aiohttp==3.13.3
 asyncio==3.4.3
 python-dotenv==1.0.0
 colorama==0.4.6
@@ -9,3 +9,5 @@ flask-sqlalchemy==3.0.5
 psutil==5.9.5
 schedule==1.2.0
 requests==2.31.0 
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=3.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
